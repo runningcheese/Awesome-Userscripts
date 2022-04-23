@@ -1,5 +1,8 @@
 # 2022 年度最喜欢油猴脚本
 
+原文链接：https://www.runningcheese.com/userscripts
+
+欢迎跰虫和补充推荐！
 
 
 
