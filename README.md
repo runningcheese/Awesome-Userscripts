@@ -2,7 +2,7 @@
 
 原文链接：https://www.runningcheese.com/userscripts
 
-欢迎跰虫和补充推荐！
+欢迎抓虫和补充推荐！
 
 
 
